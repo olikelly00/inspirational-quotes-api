@@ -14,7 +14,7 @@ import {
   getRandomQuote,
   editQuote,
   deleteQuote,
-} from "../quote.js";
+} from "../models/quote.js";
 
 const fileName = "quotes.json";
 
